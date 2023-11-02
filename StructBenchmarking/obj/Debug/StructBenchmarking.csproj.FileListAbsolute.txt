@@ -1,0 +1,14 @@
+C:\Users\Saveliy\Documents\C#\StructBenchmarking\bin\Debug\StructBenchmarking.exe.config
+C:\Users\Saveliy\Documents\C#\StructBenchmarking\bin\Debug\StructBenchmarking.exe
+C:\Users\Saveliy\Documents\C#\StructBenchmarking\bin\Debug\StructBenchmarking.pdb
+C:\Users\Saveliy\Documents\C#\StructBenchmarking\bin\Debug\nunit.framework.dll
+C:\Users\Saveliy\Documents\C#\StructBenchmarking\bin\Debug\ZedGraph.dll
+C:\Users\Saveliy\Documents\C#\StructBenchmarking\bin\Debug\ZedGraph.xml
+C:\Users\Saveliy\Documents\C#\StructBenchmarking\obj\Debug\StructBenchmarking.csproj.AssemblyReference.cache
+C:\Users\Saveliy\Documents\C#\StructBenchmarking\obj\Debug\StructBenchmarking.csproj.SuggestedBindingRedirects.cache
+C:\Users\Saveliy\Documents\C#\StructBenchmarking\obj\Debug\StructBenchmarking.Properties.Resources.resources
+C:\Users\Saveliy\Documents\C#\StructBenchmarking\obj\Debug\StructBenchmarking.csproj.GenerateResource.cache
+C:\Users\Saveliy\Documents\C#\StructBenchmarking\obj\Debug\StructBenchmarking.csproj.CoreCompileInputs.cache
+C:\Users\Saveliy\Documents\C#\StructBenchmarking\obj\Debug\StructBenchmarking.csproj.CopyComplete
+C:\Users\Saveliy\Documents\C#\StructBenchmarking\obj\Debug\StructBenchmarking.exe
+C:\Users\Saveliy\Documents\C#\StructBenchmarking\obj\Debug\StructBenchmarking.pdb

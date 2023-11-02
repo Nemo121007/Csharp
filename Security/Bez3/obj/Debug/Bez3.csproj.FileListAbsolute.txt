@@ -1,0 +1,11 @@
+C:\Users\Saveliy\Documents\C#\Bez3\bin\Debug\Names.exe.config
+C:\Users\Saveliy\Documents\C#\Bez3\bin\Debug\Names.exe
+C:\Users\Saveliy\Documents\C#\Bez3\bin\Debug\Names.pdb
+C:\Users\Saveliy\Documents\C#\Bez3\bin\Debug\ZedGraph.dll
+C:\Users\Saveliy\Documents\C#\Bez3\bin\Debug\ZedGraph.xml
+C:\Users\Saveliy\Documents\C#\Bez3\obj\Debug\Bez3.csproj.AssemblyReference.cache
+C:\Users\Saveliy\Documents\C#\Bez3\obj\Debug\Bez3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Saveliy\Documents\C#\Bez3\obj\Debug\Bez3.csproj.CoreCompileInputs.cache
+C:\Users\Saveliy\Documents\C#\Bez3\obj\Debug\Bez3.csproj.CopyComplete
+C:\Users\Saveliy\Documents\C#\Bez3\obj\Debug\Names.exe
+C:\Users\Saveliy\Documents\C#\Bez3\obj\Debug\Names.pdb

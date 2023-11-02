@@ -1,0 +1,14 @@
+C:\Users\Saveliy\Documents\C#\HotelAccounting\obj\Debug\net472\HotelAccounting.csproj.AssemblyReference.cache
+C:\Users\Saveliy\Documents\C#\HotelAccounting\obj\Debug\net472\HotelAccounting.csproj.SuggestedBindingRedirects.cache
+C:\Users\Saveliy\Documents\C#\HotelAccounting\obj\Debug\net472\MainWindow.g.cs
+C:\Users\Saveliy\Documents\C#\HotelAccounting\obj\Debug\net472\HotelAccounting_MarkupCompile.cache
+C:\Users\Saveliy\Documents\C#\HotelAccounting\obj\Debug\net472\HotelAccounting_MarkupCompile.lref
+C:\Users\Saveliy\Documents\C#\HotelAccounting\bin\Debug\net472\HotelAccounting.exe.config
+C:\Users\Saveliy\Documents\C#\HotelAccounting\bin\Debug\net472\HotelAccounting.exe
+C:\Users\Saveliy\Documents\C#\HotelAccounting\bin\Debug\net472\HotelAccounting.pdb
+C:\Users\Saveliy\Documents\C#\HotelAccounting\obj\Debug\net472\MainWindow.baml
+C:\Users\Saveliy\Documents\C#\HotelAccounting\obj\Debug\net472\HotelAccounting.g.resources
+C:\Users\Saveliy\Documents\C#\HotelAccounting\obj\Debug\net472\HotelAccounting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saveliy\Documents\C#\HotelAccounting\obj\Debug\net472\HotelAccounting.csproj.CoreCompileInputs.cache
+C:\Users\Saveliy\Documents\C#\HotelAccounting\obj\Debug\net472\HotelAccounting.exe
+C:\Users\Saveliy\Documents\C#\HotelAccounting\obj\Debug\net472\HotelAccounting.pdb

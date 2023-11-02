@@ -1,0 +1,9 @@
+C:\Users\Saveliy\Documents\C#\Image\bin\Debug\eurobot.bmp
+C:\Users\Saveliy\Documents\C#\Image\bin\Debug\Recognizer.exe.config
+C:\Users\Saveliy\Documents\C#\Image\bin\Debug\Recognizer.exe
+C:\Users\Saveliy\Documents\C#\Image\bin\Debug\Recognizer.pdb
+C:\Users\Saveliy\Documents\C#\Image\obj\Debug\Image.csproj.AssemblyReference.cache
+C:\Users\Saveliy\Documents\C#\Image\obj\Debug\Image.csproj.SuggestedBindingRedirects.cache
+C:\Users\Saveliy\Documents\C#\Image\obj\Debug\Image.csproj.CoreCompileInputs.cache
+C:\Users\Saveliy\Documents\C#\Image\obj\Debug\Recognizer.exe
+C:\Users\Saveliy\Documents\C#\Image\obj\Debug\Recognizer.pdb

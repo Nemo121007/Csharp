@@ -1,0 +1,17 @@
+C:\Users\Saveliy\Documents\C#\digger\bin\Debug\Images\Digger.png
+C:\Users\Saveliy\Documents\C#\digger\bin\Debug\Images\Gold.png
+C:\Users\Saveliy\Documents\C#\digger\bin\Debug\Images\Monster.png
+C:\Users\Saveliy\Documents\C#\digger\bin\Debug\Images\Sack.png
+C:\Users\Saveliy\Documents\C#\digger\bin\Debug\Images\Terrain.png
+C:\Users\Saveliy\Documents\C#\digger\bin\Debug\11-digger.exe.config
+C:\Users\Saveliy\Documents\C#\digger\bin\Debug\11-digger.exe
+C:\Users\Saveliy\Documents\C#\digger\bin\Debug\11-digger.pdb
+C:\Users\Saveliy\Documents\C#\digger\bin\Debug\nunit.framework.dll
+C:\Users\Saveliy\Documents\C#\digger\obj\Debug\Digger.csproj.AssemblyReference.cache
+C:\Users\Saveliy\Documents\C#\digger\obj\Debug\Digger.csproj.SuggestedBindingRedirects.cache
+C:\Users\Saveliy\Documents\C#\digger\obj\Debug\Digger.Properties.Resources.resources
+C:\Users\Saveliy\Documents\C#\digger\obj\Debug\Digger.csproj.GenerateResource.cache
+C:\Users\Saveliy\Documents\C#\digger\obj\Debug\Digger.csproj.CoreCompileInputs.cache
+C:\Users\Saveliy\Documents\C#\digger\obj\Debug\Digger.csproj.CopyComplete
+C:\Users\Saveliy\Documents\C#\digger\obj\Debug\11-digger.exe
+C:\Users\Saveliy\Documents\C#\digger\obj\Debug\11-digger.pdb

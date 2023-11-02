@@ -1,0 +1,34 @@
+C:\Users\Saveliy\Documents\C#\Names\bin\Debug\names.txt
+C:\Users\Saveliy\Documents\C#\Names\bin\Debug\Names.exe.config
+C:\Users\Saveliy\Documents\C#\Names\bin\Debug\Names.exe
+C:\Users\Saveliy\Documents\C#\Names\bin\Debug\Names.pdb
+C:\Users\Saveliy\Documents\C#\Names\bin\Debug\ZedGraph.dll
+C:\Users\Saveliy\Documents\C#\Names\bin\Debug\ZedGraph.xml
+C:\Users\Saveliy\Documents\C#\Names\obj\Debug\Names.csproj.AssemblyReference.cache
+C:\Users\Saveliy\Documents\C#\Names\obj\Debug\Names.csproj.SuggestedBindingRedirects.cache
+C:\Users\Saveliy\Documents\C#\Names\obj\Debug\Names.csproj.CoreCompileInputs.cache
+C:\Users\Saveliy\Documents\C#\Names\obj\Debug\Names.csproj.CopyComplete
+C:\Users\Saveliy\Documents\C#\Names\obj\Debug\Names.exe
+C:\Users\Saveliy\Documents\C#\Names\obj\Debug\Names.pdb
+C:\Users\Saveliy\Documents\C#\Names — копия\bin\Debug\Names.exe.config
+C:\Users\Saveliy\Documents\C#\Names — копия\bin\Debug\Names.exe
+C:\Users\Saveliy\Documents\C#\Names — копия\bin\Debug\Names.pdb
+C:\Users\Saveliy\Documents\C#\Names — копия\bin\Debug\ZedGraph.dll
+C:\Users\Saveliy\Documents\C#\Names — копия\bin\Debug\ZedGraph.xml
+C:\Users\Saveliy\Documents\C#\Names — копия\obj\Debug\Names.csproj.AssemblyReference.cache
+C:\Users\Saveliy\Documents\C#\Names — копия\obj\Debug\Names.csproj.SuggestedBindingRedirects.cache
+C:\Users\Saveliy\Documents\C#\Names — копия\obj\Debug\Names.csproj.CoreCompileInputs.cache
+C:\Users\Saveliy\Documents\C#\Names — копия\obj\Debug\Names.csproj.CopyComplete
+C:\Users\Saveliy\Documents\C#\Names — копия\obj\Debug\Names.exe
+C:\Users\Saveliy\Documents\C#\Names — копия\obj\Debug\Names.pdb
+C:\Users\Saveliy\Documents\C#\Bez3\bin\Debug\Names.exe.config
+C:\Users\Saveliy\Documents\C#\Bez3\bin\Debug\Names.exe
+C:\Users\Saveliy\Documents\C#\Bez3\bin\Debug\Names.pdb
+C:\Users\Saveliy\Documents\C#\Bez3\bin\Debug\ZedGraph.dll
+C:\Users\Saveliy\Documents\C#\Bez3\bin\Debug\ZedGraph.xml
+C:\Users\Saveliy\Documents\C#\Bez3\obj\Debug\Names.csproj.AssemblyReference.cache
+C:\Users\Saveliy\Documents\C#\Bez3\obj\Debug\Names.csproj.SuggestedBindingRedirects.cache
+C:\Users\Saveliy\Documents\C#\Bez3\obj\Debug\Names.csproj.CoreCompileInputs.cache
+C:\Users\Saveliy\Documents\C#\Bez3\obj\Debug\Names.csproj.CopyComplete
+C:\Users\Saveliy\Documents\C#\Bez3\obj\Debug\Names.exe
+C:\Users\Saveliy\Documents\C#\Bez3\obj\Debug\Names.pdb

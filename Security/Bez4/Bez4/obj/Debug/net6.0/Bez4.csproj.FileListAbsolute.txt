@@ -1,0 +1,15 @@
+C:\Users\Saveliy\Documents\C#\Bez4\Bez4\bin\Debug\net6.0\Bez4.exe
+C:\Users\Saveliy\Documents\C#\Bez4\Bez4\bin\Debug\net6.0\Bez4.deps.json
+C:\Users\Saveliy\Documents\C#\Bez4\Bez4\bin\Debug\net6.0\Bez4.runtimeconfig.json
+C:\Users\Saveliy\Documents\C#\Bez4\Bez4\bin\Debug\net6.0\Bez4.dll
+C:\Users\Saveliy\Documents\C#\Bez4\Bez4\bin\Debug\net6.0\Bez4.pdb
+C:\Users\Saveliy\Documents\C#\Bez4\Bez4\obj\Debug\net6.0\Bez4.csproj.AssemblyReference.cache
+C:\Users\Saveliy\Documents\C#\Bez4\Bez4\obj\Debug\net6.0\Bez4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saveliy\Documents\C#\Bez4\Bez4\obj\Debug\net6.0\Bez4.AssemblyInfoInputs.cache
+C:\Users\Saveliy\Documents\C#\Bez4\Bez4\obj\Debug\net6.0\Bez4.AssemblyInfo.cs
+C:\Users\Saveliy\Documents\C#\Bez4\Bez4\obj\Debug\net6.0\Bez4.csproj.CoreCompileInputs.cache
+C:\Users\Saveliy\Documents\C#\Bez4\Bez4\obj\Debug\net6.0\Bez4.dll
+C:\Users\Saveliy\Documents\C#\Bez4\Bez4\obj\Debug\net6.0\refint\Bez4.dll
+C:\Users\Saveliy\Documents\C#\Bez4\Bez4\obj\Debug\net6.0\Bez4.pdb
+C:\Users\Saveliy\Documents\C#\Bez4\Bez4\obj\Debug\net6.0\Bez4.genruntimeconfig.cache
+C:\Users\Saveliy\Documents\C#\Bez4\Bez4\obj\Debug\net6.0\ref\Bez4.dll

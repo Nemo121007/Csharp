@@ -1,0 +1,15 @@
+C:\Users\Saveliy\Documents\C#\Procents\Procents\bin\Debug\net6.0\Procents.exe
+C:\Users\Saveliy\Documents\C#\Procents\Procents\bin\Debug\net6.0\Procents.deps.json
+C:\Users\Saveliy\Documents\C#\Procents\Procents\bin\Debug\net6.0\Procents.runtimeconfig.json
+C:\Users\Saveliy\Documents\C#\Procents\Procents\bin\Debug\net6.0\Procents.dll
+C:\Users\Saveliy\Documents\C#\Procents\Procents\bin\Debug\net6.0\Procents.pdb
+C:\Users\Saveliy\Documents\C#\Procents\Procents\obj\Debug\net6.0\Procents.csproj.AssemblyReference.cache
+C:\Users\Saveliy\Documents\C#\Procents\Procents\obj\Debug\net6.0\Procents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saveliy\Documents\C#\Procents\Procents\obj\Debug\net6.0\Procents.AssemblyInfoInputs.cache
+C:\Users\Saveliy\Documents\C#\Procents\Procents\obj\Debug\net6.0\Procents.AssemblyInfo.cs
+C:\Users\Saveliy\Documents\C#\Procents\Procents\obj\Debug\net6.0\Procents.csproj.CoreCompileInputs.cache
+C:\Users\Saveliy\Documents\C#\Procents\Procents\obj\Debug\net6.0\Procents.dll
+C:\Users\Saveliy\Documents\C#\Procents\Procents\obj\Debug\net6.0\refint\Procents.dll
+C:\Users\Saveliy\Documents\C#\Procents\Procents\obj\Debug\net6.0\Procents.pdb
+C:\Users\Saveliy\Documents\C#\Procents\Procents\obj\Debug\net6.0\Procents.genruntimeconfig.cache
+C:\Users\Saveliy\Documents\C#\Procents\Procents\obj\Debug\net6.0\ref\Procents.dll

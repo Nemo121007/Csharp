@@ -1,0 +1,16 @@
+C:\Users\Saveliy\Documents\C#\autocomplete\bin\Debug\dic\adjectives.txt
+C:\Users\Saveliy\Documents\C#\autocomplete\bin\Debug\dic\nouns.txt
+C:\Users\Saveliy\Documents\C#\autocomplete\bin\Debug\dic\verbs.txt
+C:\Users\Saveliy\Documents\C#\autocomplete\bin\Debug\Autocomplete.exe.config
+C:\Users\Saveliy\Documents\C#\autocomplete\bin\Debug\Autocomplete.exe
+C:\Users\Saveliy\Documents\C#\autocomplete\bin\Debug\Autocomplete.pdb
+C:\Users\Saveliy\Documents\C#\autocomplete\bin\Debug\nunit.framework.dll
+C:\Users\Saveliy\Documents\C#\autocomplete\obj\Debug\autocomplete.csproj.AssemblyReference.cache
+C:\Users\Saveliy\Documents\C#\autocomplete\obj\Debug\autocomplete.csproj.SuggestedBindingRedirects.cache
+C:\Users\Saveliy\Documents\C#\autocomplete\obj\Debug\Autocomplete.AutocompleteForm.resources
+C:\Users\Saveliy\Documents\C#\autocomplete\obj\Debug\Autocomplete.Properties.Resources.resources
+C:\Users\Saveliy\Documents\C#\autocomplete\obj\Debug\autocomplete.csproj.GenerateResource.cache
+C:\Users\Saveliy\Documents\C#\autocomplete\obj\Debug\autocomplete.csproj.CoreCompileInputs.cache
+C:\Users\Saveliy\Documents\C#\autocomplete\obj\Debug\autocomplete.csproj.CopyComplete
+C:\Users\Saveliy\Documents\C#\autocomplete\obj\Debug\Autocomplete.exe
+C:\Users\Saveliy\Documents\C#\autocomplete\obj\Debug\Autocomplete.pdb
